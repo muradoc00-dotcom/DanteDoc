@@ -1,0 +1,8 @@
+{
+  "appId": "ru.dentalmaster.game",
+  "appName": "Стоматолог Мастер",
+  "webDir": ".",
+  "android": {
+    "allowMixedContent": true
+  }
+}
